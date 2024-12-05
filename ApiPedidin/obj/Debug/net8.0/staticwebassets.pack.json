@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\bryne\\Documents\\Repositore\\Restic36-Desafio-API-main\\ApiPedidin\\wwwroot\\images\\1_burguer.png",
+      "PackagePath": "staticwebassets\\images\\1_burguer.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiPedidin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiPedidin.props",
+      "PackagePath": "build\\ApiPedidin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiPedidin.props",
+      "PackagePath": "buildMultiTargeting\\ApiPedidin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiPedidin.props",
+      "PackagePath": "buildTransitive\\ApiPedidin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

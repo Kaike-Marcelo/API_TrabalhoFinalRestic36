@@ -1,0 +1,6 @@
+@ApiPedidin_HostAddress = http://localhost:5234
+
+GET {{ApiPedidin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "svLqiCr8iAYGXbBwO9lpmfFyFudgFNh9LOcW1Gp8/L8=",
+  "Source": "ApiPedidin",
+  "BasePath": "_content/ApiPedidin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiPedidin\\wwwroot",
+      "Source": "ApiPedidin",
+      "ContentRoot": "C:\\Users\\bryne\\Documents\\Repositore\\Restic36-Desafio-API-main\\ApiPedidin\\wwwroot\\",
+      "BasePath": "_content/ApiPedidin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bryne\\Documents\\Repositore\\Restic36-Desafio-API-main\\ApiPedidin\\wwwroot\\images\\1_burguer.png",
+      "SourceId": "ApiPedidin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bryne\\Documents\\Repositore\\Restic36-Desafio-API-main\\ApiPedidin\\wwwroot\\",
+      "BasePath": "_content/ApiPedidin",
+      "RelativePath": "images/1_burguer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1_burguer.png"
+    }
+  ]
+}
